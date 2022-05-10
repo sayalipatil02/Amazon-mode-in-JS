@@ -32,7 +32,10 @@ a{
     font-size: 20px;
 }
 
-
+.geo{
+    color: red;
+    font-size: 20px;
+}
 #navapana1{
     height:72px;
     width:100%;
